@@ -1,0 +1,1 @@
+Developed as a part of Object Oriented Software Engineering project work. This system is developed on the base of MVC model.
